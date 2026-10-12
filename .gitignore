@@ -1,0 +1,2 @@
+git rm -r --cached core/__pycache__ network/__pycache__ data/__pycache__
+git commit -m "Stop tracking pycache"
